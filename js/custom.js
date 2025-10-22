@@ -13,8 +13,8 @@
           slides: [
               
               { src: 'images/man-in-the-gym-drinking-protein-shake-drink-royalty-free-image-1672908248.avif' },
-              { src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMPyWkMciEsoM58EqT_LwVqCfDsDegeicZg&s' },
-            { src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPUre6-zYF-IsKc7W1S8XUxHLUX-J2f0JjTw&s' }
+              { src: 'images/muscular-men-drink-his-nutritional-supplement-royalty-free-image-1568107274.jpg' },
+            { src: 'images/protein-art.jpg' }
           ],
           timer: false,
           animation: 'kenburns',
